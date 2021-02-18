@@ -1,5 +1,5 @@
 {
-    "name": "nexylan/graylog-sdk",
+    "name": "deltasystems/graylog-sdk",
     "description": "A PHP sdk to communicate with the Graylog REST API",
     "keywords": ["Graylog", "API", "Symfony"],
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.0 | ^8.0",
         "php-http/client-common": "^1.4 || ^2.0",
         "php-http/client-implementation": "^1.0",
         "php-http/discovery": "^1.0",
